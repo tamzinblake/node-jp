@@ -4,7 +4,7 @@
   "description": "Command-line JSON parser",
   "main": "index.js",
   "bin": {
-    "jp": "cmd.js"
+    "jp": "bin/cmd.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
